@@ -5,7 +5,7 @@
 
 variable "gcp_project" {
   # Configurar el nombre del proyecto en GCP
-  default = "cnsa-2020"
+  default = "cnsa2021-hle778"
 }
 
 provider "google" {
